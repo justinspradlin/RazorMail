@@ -1,0 +1,19 @@
+﻿<html>
+<head>
+    <title>Welcome to acme.com</title>
+</head>
+<body>
+    <p>
+        Dear @Model.FullName,</p>
+    <p>
+        An account has been created for you.</p>
+    <p>
+        This is the greatest site ever so you should feel very special!</p>
+    <p>
+        To login and complete your profile, please go to:</p>
+    <p>
+        <a href="@Model.LoginUrl">@Model.LoginUrl</a></p>
+    <p>
+        Your name is @Model.UserName and your password is: @Model.Password</p>
+</body>
+</html>
