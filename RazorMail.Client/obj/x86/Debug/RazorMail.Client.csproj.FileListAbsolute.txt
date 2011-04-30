@@ -1,1 +1,0 @@
-D:\SW Dev\Demos\RazorMail\RazorMail.Client\bin\Debug\RazorMail.Client.exe.config
